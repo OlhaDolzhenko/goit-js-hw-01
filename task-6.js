@@ -11,4 +11,3 @@ do {
 } while (input !== null);
 
 alert(`Общая сумма чисел равна ${total}`);
-console.log(`Общая сумма чисел равна ${total}`);

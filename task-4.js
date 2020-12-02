@@ -1,7 +1,7 @@
 const credits = 23580;
 const pricePerDroid = 3000;
 let message;
-let amount = prompt("Введите количество дроидов");
+const amount = prompt("Введите количество дроидов");
 
 if (amount === null) {
   message = "Отменено пользователем!";
